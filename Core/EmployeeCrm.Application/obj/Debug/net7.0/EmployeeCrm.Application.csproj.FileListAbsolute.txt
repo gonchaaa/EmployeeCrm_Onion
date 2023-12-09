@@ -1,0 +1,17 @@
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.csproj.AssemblyReference.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.AssemblyInfoInputs.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.AssemblyInfo.cs
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.csproj.CoreCompileInputs.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Application.deps.json
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Application.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Application.pdb
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Domain.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Domain.pdb
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.csproj.CopyComplete
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\refint\EmployeeCrm.Application.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.pdb
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\ref\EmployeeCrm.Application.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\bin\Debug\net7.0\EmployeeCrm.Application.runtimeconfig.json
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Application\obj\Debug\net7.0\EmployeeCrm.Application.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.csproj.AssemblyReference.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.AssemblyInfoInputs.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.AssemblyInfo.cs
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\bin\Debug\net7.0\EmployeeCrm.Domain.deps.json
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\bin\Debug\net7.0\EmployeeCrm.Domain.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\bin\Debug\net7.0\EmployeeCrm.Domain.pdb
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\refint\EmployeeCrm.Domain.dll
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\EmployeeCrm.Domain.pdb
+C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Core\EmployeeCrm.Domain\obj\Debug\net7.0\ref\EmployeeCrm.Domain.dll

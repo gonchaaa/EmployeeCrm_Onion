@@ -9,5 +9,9 @@ namespace EmployeeCrm.Domain.Entities
 {
     public class Internship : BaseEntity
     {
+
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+
     }
 }

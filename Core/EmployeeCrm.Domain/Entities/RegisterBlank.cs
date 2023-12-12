@@ -8,5 +8,7 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class RegisterBlank : BaseEntity
 {
-
+    public string FirstName { get; set; }
+    public string lastName { get; set; }
+    
 }

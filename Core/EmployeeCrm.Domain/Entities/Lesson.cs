@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Lesson : BaseEntity
 {
-
+    public string LessonName { get; set; }
 }

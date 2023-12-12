@@ -7,5 +7,5 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Position : BaseEntity
 {
-
+    public string PositionName { get; set; }
 }

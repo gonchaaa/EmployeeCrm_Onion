@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Meeting : BaseEntity
 {
-
+    public DateTime MeetingDate { get; set; }
 }

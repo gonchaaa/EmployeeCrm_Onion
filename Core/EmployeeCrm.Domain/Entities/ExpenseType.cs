@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class ExpenseType : BaseEntity
 {
-
+    public string Title { get; set; }
 }

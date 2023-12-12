@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jRtyZYEx4deaIa8VTpj9NO2pCE52s0iZeAiA3YDqxKwA0VWY+4I227q8+t83IdHhpMUf/riY/GRD91F1lFXwYg==",
+  "dgSpecHash": "9dE5ZATvwA0yEXGGWfvUJ+JT3eGA+QTrcgbKqS+ls5oUgpqr0BrV/vkrNSm0Q68CxIwvIGCQCNqXDKguLYu0ew==",
   "success": true,
   "projectFilePath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
     "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",

@@ -7,5 +7,7 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class StudentPayment : BaseEntity
 {
+    public decimal Amount { get; set; }
 
+    public bool PaymentMethod { get; set; }
 }

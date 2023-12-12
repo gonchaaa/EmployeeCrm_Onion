@@ -7,5 +7,6 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Group : BaseEntity
 {
-
+    public string GroupNumber { get; set; }
+    public bool IsActive { get; set; }
 }

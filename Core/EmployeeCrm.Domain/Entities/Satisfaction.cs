@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Satisfaction : BaseEntity
 {
-
+    public string Message { get; set; }
 }

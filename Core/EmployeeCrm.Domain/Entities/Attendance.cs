@@ -8,5 +8,6 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Attendance : BaseEntity
 {
-
+    public DateTime LessonDate { get; set; }
+    public bool IsAttendance { get; set; }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeCrm.Application.DTOs.AttendanceDTOs
+namespace EmployeeCrm.Persistence.Services
 {
-    public class AttendanceCreateDTO
+    internal class GroupService
     {
     }
 }

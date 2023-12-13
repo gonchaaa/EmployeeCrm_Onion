@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Repositories.Attendance
 {
-    public interface IAttendanceReadRepository : IReadRepository<EmployeeCrm.Domain.Entities.Attendance>
+    public interface IUserAttendanceReadRepository : IReadRepository<EmployeeCrm.Domain.Entities.Attendance>
     {
     }
 }

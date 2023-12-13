@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeCrm.Application.Abstraction
+namespace EmployeeCrm.Domain.Entities
 {
-    public interface IAttendanceService
+    internal class EmployeerLesson
     {
     }
 }

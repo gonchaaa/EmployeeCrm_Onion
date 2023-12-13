@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Persistence.Repositories
 {
-    public class AttendanceReadRepository : ReadRepository<EmployeeCrm.Domain.Entities.Attendance>, IAttendanceReadRepository
+    public class AttendanceReadRepository : ReadRepository<EmployeeCrm.Domain.Entities.Attendance>, IUserAttendanceReadRepository
     {
         public AttendanceReadRepository(AppDbContext appDbContext) : base(appDbContext)
         {

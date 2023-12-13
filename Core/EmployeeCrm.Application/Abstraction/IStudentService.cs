@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeCrm.Application.DTOs.AttendanceDTOs
+namespace EmployeeCrm.Application.Abstraction
 {
-    public class AttendanceDTO
+    internal interface IStudentService
     {
     }
 }

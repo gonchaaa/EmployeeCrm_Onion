@@ -250,6 +250,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj": {
+                "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj"
+              },
               "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj": {
                 "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj"
               }

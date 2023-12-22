@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using EmployeeCrm.Application.Abstraction;
 using EmployeeCrm.Application.DTOs.EventDTOs;
-using EmployeeCrm.Application.Exceptions.EventException;
-using EmployeeCrm.Application.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -10,3 +10,15 @@ C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\Emp
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\refint\EmployeeCrm.Infrasture.dll
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.pdb
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\ref\EmployeeCrm.Infrasture.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\bin\Debug\net7.0\EmployeeCrm.Infrasture.deps.json
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\bin\Debug\net7.0\EmployeeCrm.Infrasture.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\bin\Debug\net7.0\EmployeeCrm.Infrasture.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.AssemblyInfoInputs.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.AssemblyInfo.cs
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.csproj.CoreCompileInputs.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.sourcelink.json
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\refint\EmployeeCrm.Infrasture.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\EmployeeCrm.Infrasture.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Infrasture\obj\Debug\net7.0\ref\EmployeeCrm.Infrasture.dll

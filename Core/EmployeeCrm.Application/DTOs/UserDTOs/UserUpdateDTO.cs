@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EmployeeCrm.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,6 @@ namespace EmployeeCrm.Application.DTOs.UserDTOs
 {
      public class UserUpdateDTO
     {
+        public int PositionId { get; set; }
     }
 }

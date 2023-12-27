@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Exceptions.MeetingException
 {
-    public class MeetingNotFoundException
+    public class MeetingNotFoundException : Exception
     {
+        public MeetingNotFoundException() : base("Event not found")
+        {
+        }
+
+        public MeetingNotFoundException(string? message) : base(message)
+        {
+        }
+
+        public MeetingNotFoundException(string? message, Exception? innerException) : base(message, innerException)
+        {
+
+        }
     }
 }

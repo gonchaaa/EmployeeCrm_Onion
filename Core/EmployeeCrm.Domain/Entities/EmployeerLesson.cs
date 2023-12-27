@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Domain.Entities
 {
-    internal class EmployeerLesson
+    public class EmployeerLesson
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public double? Salary { get; set; }
+        public DateTime StartWork { get; set; }
+        public DateTime Present { get; set; }
     }
 }

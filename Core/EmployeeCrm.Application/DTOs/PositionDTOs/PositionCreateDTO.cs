@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.PositionDTOs
 {
     public class PositionCreateDTO
     {
+        public string PositionName { get; set; }
     }
 }

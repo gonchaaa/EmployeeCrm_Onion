@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.İnformationListDTOs
 {
     public class InformationListUpdateDTO
     {
+        public string Title { get; set; }
     }
 }

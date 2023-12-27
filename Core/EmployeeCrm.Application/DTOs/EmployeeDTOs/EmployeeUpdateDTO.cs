@@ -8,5 +8,10 @@ namespace EmployeeCrm.Application.DTOs.EmployeeDTOs
 {
     public class EmployeeUpdateDTO
     {
+        public int UserId { get; set; }
+        public double Salary { get; set; }
+        public DateTime StartWork { get; set; }
+        public DateTime Present { get; set; }
+        public int LessonId { get; set; }
     }
 }

@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Abstraction
 {
-    public interface IEventService 
+    public interface IEventService
     {
-        void CreateEvent(EventCreateDTO eventCreateDTO);
-        List<EventDTO> GetEvents();
+        Task CreateEvent(CreateEventDTO createEventDTO);
+        Task UpdateEvent(EventUpdateDTO updateEventDTO);
+        List<EventListDTO> GetEvents();
+        EventListDTO GetEventById(int id);
     }
 }

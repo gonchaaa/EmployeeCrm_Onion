@@ -8,5 +8,7 @@ namespace EmployeeCrm.Application.DTOs.SatisfactionsDTOs
 {
      public class SatisfactionDTO
     {
+        public int Id { get; set; }
+        public string Message { get; set; }
     }
 }

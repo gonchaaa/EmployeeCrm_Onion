@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Exceptions.TaskException
 {
-    public class TaskNotFoundException
+    public class TaskNotFoundException : Exception
     {
+        public TaskNotFoundException() : base("Event not found")
+        {
+        }
+
+        public TaskNotFoundException(string? message) : base(message)
+        {
+        }
+
+        public TaskNotFoundException(string? message, Exception? innerException) : base(message, innerException)
+        {
+
+        }
     }
 }

@@ -8,5 +8,7 @@ namespace EmployeeCrm.Application.DTOs.MeetingDTOs
 {
     public class MeetingUpdateDTO
     {
+        public DateTime MeetingDate { get; set; }
+
     }
 }

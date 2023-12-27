@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.LessonDTOs
 {
     public class LessonUpdateDTO
     {
+        public string LessonName { get; set; }
     }
 }

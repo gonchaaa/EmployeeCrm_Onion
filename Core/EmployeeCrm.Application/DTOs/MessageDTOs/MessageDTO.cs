@@ -8,5 +8,7 @@ namespace EmployeeCrm.Application.DTOs.MessageDTOs
 {
     public class MessageDTO
     {
+        public int Id { get; set; }
+        public string Messages { get; set; }
     }
 }

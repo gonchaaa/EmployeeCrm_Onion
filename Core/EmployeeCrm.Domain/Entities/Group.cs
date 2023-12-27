@@ -9,4 +9,6 @@ public class Group : BaseEntity
 {
     public string GroupNumber { get; set; }
     public bool IsActive { get; set; }
+    public int EmployeeId { get; set; }
+    public Employee Employee { get; set; }
 }

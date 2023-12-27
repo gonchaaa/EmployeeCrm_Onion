@@ -8,5 +8,8 @@ namespace EmployeeCrm.Application.DTOs.TaskDTOs
 {
     public class TaskDTO
     {
+        public int Id { get; set; }
+        public string TaskName { get; set; }
+        public bool IsCompleted { get; set; }
     }
 }

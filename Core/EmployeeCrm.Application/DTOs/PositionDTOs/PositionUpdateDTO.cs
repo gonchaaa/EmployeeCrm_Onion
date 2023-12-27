@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.PositionDTOs
 {
     public class PositionUpdateDTO
     {
+        public string PositionName { get; set; }
     }
 }

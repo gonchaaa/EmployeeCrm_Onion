@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Exceptions.StudentException
 {
-    public class StudentNotFoundException
+    public class StudentNotFoundException : Exception
     {
+        public StudentNotFoundException() : base("Event not found")
+        {
+        }
+
+        public StudentNotFoundException(string? message) : base(message)
+        {
+        }
+
+        public StudentNotFoundException(string? message, Exception? innerException) : base(message, innerException)
+        {
+
+        }
     }
 }

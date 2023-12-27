@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "magmE6qWxIwD70yTyQaIVSaRqz3adN94oFRlBOVV5iCWYx1vnmbxxuJdqaKGZZYVfoK1qea9tIyXKB8WcVgBpA==",
+  "dgSpecHash": "ZfYaTyGETuycyjeL2OU/+cPDyFqRjYfu+Z+acORaCTgAguKbpUgOdlMRxApOgz/gzSMRvJa4U8cAZeRT8sEfbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Infrasture\\EmployeeCrm.Infrasture.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Infrasture\\EmployeeCrm.Infrasture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qonce\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\qonce\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\qonce\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

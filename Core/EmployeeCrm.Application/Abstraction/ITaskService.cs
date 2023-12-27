@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Abstraction
 {
-    internal interface ITaskService
+    public interface ITaskService
     {
     }
 }

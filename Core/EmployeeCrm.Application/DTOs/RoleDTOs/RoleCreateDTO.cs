@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.RoleDTOs
 {
     public class RoleCreateDTO
     {
+        public string RoleName { get; set; }
     }
 }

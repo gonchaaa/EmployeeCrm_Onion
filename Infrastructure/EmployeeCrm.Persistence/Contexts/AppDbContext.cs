@@ -15,7 +15,7 @@ namespace EmployeeCrm.Persistence.Contexts
         }
 
         public DbSet<Event> Events { get; set; }
-        public DbSet<Attendance> Attendances { get; set; }
+        public DbSet<UserAttendance> UserAttendances { get; set; }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Expense> Expenses { get; set; }
         public DbSet<ExpenseType> ExpenseTypes { get; set; }

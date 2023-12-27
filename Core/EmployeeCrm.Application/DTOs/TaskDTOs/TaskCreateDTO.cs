@@ -8,5 +8,7 @@ namespace EmployeeCrm.Application.DTOs.TaskDTOs
 {
     public class TaskCreateDTO
     {
+        public string TaskName { get; set; }
+        public string Description { get; set; }
     }
 }

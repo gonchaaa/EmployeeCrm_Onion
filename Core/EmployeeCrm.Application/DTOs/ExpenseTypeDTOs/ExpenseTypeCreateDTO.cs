@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.ExpenseTypeDTOs
 {
     public class ExpenseTypeCreateDTO
     {
+        public string Title { get; set; }
     }
 }

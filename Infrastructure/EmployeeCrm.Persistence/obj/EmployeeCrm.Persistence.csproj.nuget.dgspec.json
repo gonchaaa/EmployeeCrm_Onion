@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj": {}
+    "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj": {
+    "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj",
+        "projectUniqueName": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj",
         "projectName": "EmployeeCrm.Application",
-        "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj",
-        "packagesPath": "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\obj\\",
+        "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj",
+        "packagesPath": "C:\\Users\\qonce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Qonce Abbasova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
-                "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj"
+              "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
+                "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj"
               }
             }
           }
@@ -47,6 +52,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -75,21 +88,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
+    "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj",
         "projectName": "EmployeeCrm.Domain",
-        "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj",
-        "packagesPath": "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\obj\\",
+        "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj",
+        "packagesPath": "C:\\Users\\qonce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Qonce Abbasova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,6 +114,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,21 +148,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj": {
+    "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj",
         "projectName": "EmployeeCrm.Persistence",
-        "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Qonce Abbasova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Infrastructure\\EmployeeCrm.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Persistence\\EmployeeCrm.Persistence.csproj",
+        "packagesPath": "C:\\Users\\qonce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Infrastructure\\EmployeeCrm.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Qonce Abbasova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,17 +174,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj": {
-                "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj"
+              "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj": {
+                "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Application\\EmployeeCrm.Application.csproj"
               },
-              "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
-                "projectPath": "C:\\Users\\Qonce Abbasova\\OneDrive\\Masaüstü\\onion\\EmployeeCrm\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj"
+              "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj": {
+                "projectPath": "C:\\Users\\qonce\\OneDrive\\Masaüstü\\Onion\\EmployeeCrm_Onion\\Core\\EmployeeCrm.Domain\\EmployeeCrm.Domain.csproj"
               }
             }
           }
@@ -222,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

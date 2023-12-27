@@ -9,8 +9,10 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class Employee : BaseEntity
 {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
+    public int UserId { get; set; }
+    public User User { get; set; }
+    public double? Salary { get; set; }
     public DateTime StartWork { get; set; }
     public DateTime Present { get; set; }
+
 }

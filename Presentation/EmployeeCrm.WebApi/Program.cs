@@ -1,5 +1,5 @@
 using EmployeeCrm.Persistence;
-
+using EmployeeCrm.Application.DependencyResolver;
 
 namespace EmployeeCrm.WebApi
 {
@@ -15,7 +15,9 @@ namespace EmployeeCrm.WebApi
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
             builder.Services.AddPersistanceService();
+            builder.Services.AddApplicationServices();
 
             var app = builder.Build();
 
@@ -25,6 +27,17 @@ namespace EmployeeCrm.WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+
+            // Exception-lari json kimi geriye qaytarir.
+            //app.UseExceptionHandler(c => c.Run(async context =>
+            //{
+            //    var exception = context.Features
+            //        .Get<IExceptionHandlerPathFeature>()
+            //        .Error;
+            //    var response = new { error = exception.Message };
+            //    await context.Response.WriteAsJsonAsync(response);
+            //}));
 
             app.UseHttpsRedirection();
 

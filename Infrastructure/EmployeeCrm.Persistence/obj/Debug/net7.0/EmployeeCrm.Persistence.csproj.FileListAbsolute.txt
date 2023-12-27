@@ -17,3 +17,23 @@ C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\Emp
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.pdb
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.genruntimeconfig.cache
 C:\Users\Qonce Abbasova\OneDrive\Masaüstü\onion\EmployeeCrm\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\ref\EmployeeCrm.Persistence.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.csproj.AssemblyReference.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.AssemblyInfoInputs.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.AssemblyInfo.cs
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.sourcelink.json
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\refint\EmployeeCrm.Persistence.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Persistence.deps.json
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Persistence.runtimeconfig.json
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Persistence.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Persistence.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Application.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Domain.dll
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Application.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\bin\Debug\net7.0\EmployeeCrm.Domain.pdb
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.csproj.CopyComplete
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\EmployeeCrm.Persistence.genruntimeconfig.cache
+C:\Users\qonce\OneDrive\Masaüstü\Onion\EmployeeCrm_Onion\Infrastructure\EmployeeCrm.Persistence\obj\Debug\net7.0\ref\EmployeeCrm.Persistence.dll

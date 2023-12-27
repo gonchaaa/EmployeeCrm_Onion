@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Abstraction
 {
-    internal interface IPositionService
+    public interface IPositionService
     {
     }
 }

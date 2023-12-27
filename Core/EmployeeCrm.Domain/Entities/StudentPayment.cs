@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace EmployeeCrm.Domain.Entities;
 public class StudentPayment : BaseEntity
 {
+    public int LessonId { get; set; }
+    public Lesson Lesson { get; set; }
     public decimal Amount { get; set; }
 
-    public bool PaymentMethod { get; set; }
 }

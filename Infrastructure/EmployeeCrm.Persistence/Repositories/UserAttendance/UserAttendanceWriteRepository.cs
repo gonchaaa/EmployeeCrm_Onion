@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Persistence.Repositories
 {
-    public class AttendanceWriteRepository : WriteRepository<EmployeeCrm.Domain.Entities.Attendance>, IUserAttendanceWriteRepository
+    public class UserAttendanceWriteRepository : WriteRepository<EmployeeCrm.Domain.Entities.UserAttendance>, IUserAttendanceWriteRepository
     {
-        public AttendanceWriteRepository(AppDbContext appDbContext) : base(appDbContext)
+        public UserAttendanceWriteRepository(AppDbContext appDbContext) : base(appDbContext)
         {
         }
     }

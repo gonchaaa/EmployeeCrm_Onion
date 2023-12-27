@@ -8,5 +8,6 @@ namespace EmployeeCrm.Application.DTOs.MeetingDTOs
 {
     public class MeetingDTO
     {
+        public int Id { get; set; }
     }
 }

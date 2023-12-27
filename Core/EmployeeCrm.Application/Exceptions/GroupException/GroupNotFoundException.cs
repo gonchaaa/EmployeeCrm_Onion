@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Exceptions.GroupException
 {
-    public class GroupNotFoundException
+    public class GroupNotFoundException : Exception
     {
+        public GroupNotFoundException() : base("Event not found")
+        {
+        }
+
+        public GroupNotFoundException(string? message) : base(message)
+        {
+        }
+
+        public GroupNotFoundException(string? message, Exception? innerException) : base(message, innerException)
+        {
+
+        }
     }
 }

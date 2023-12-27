@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeCrm.Application.Exceptions.AttendanceException
 {
-    public class AttendanceNotFoundException
+    public class AttendanceNotFoundException : Exception
     {
+        public AttendanceNotFoundException() : base("Event not found")
+        {
+        }
+
+        public AttendanceNotFoundException(string? message) : base(message)
+        {
+        }
+
+        public AttendanceNotFoundException(string? message, Exception? innerException) : base(message, innerException)
+        {
+
+        }
     }
 }
